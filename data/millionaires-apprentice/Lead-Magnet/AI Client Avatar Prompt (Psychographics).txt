@@ -1,0 +1,105 @@
+Prompt 1 - 
+Help me create my ideal client avatar profile. I have a marketing software company and I'm looking to help [INSERT INDUSTRY HERE] with their [INSERT CORE BENEFITS HERE] so they can [DESIRED END RESULT]. Let’s give my ideal client a name, [HIS/HER] name is [INSERT NAME]
+
+Prompt 2 -
+What is [CLIENT’S NAME]'s annual income?
+
+Prompt 3 - 
+Roughly how many individuals in the United States fit this profile?
+
+Prompt 4 - 
+Let's get into the psychographics (or feelings) of [CLIENT’S NAME]. What does [CLIENT’S NAME] See?
+
+Prompt 5 - 
+What does [CLIENT’S NAME] hear?
+
+Prompt 6 - 
+What does [CLIENT’S NAME] think?
+
+Prompt 7 - 
+What does [CLIENT’S NAME] say?
+
+Prompt 8 - 
+What does [CLIENT’S NAME] do?
+
+Prompt 9 -
+What does the average day in the life look like for [CLIENT’S NAME]?
+
+Prompt 10 - 
+What books is [CLIENT’S NAME] reading?
+
+Prompt 11 - 
+Where does [CLIENT’S NAME] spend his time online?
+
+Prompt 12 - 
+What does [CLIENT’S NAME] do for fun?
+
+Prompt 13 - 
+What people in [CLIENT’S NAME]’s life are his/her biggest supporters?
+
+Prompt 14 - 
+What are [CLIENT’S NAME]’s top 3 daily frustrations?
+
+Prompt 15 - 
+What keeps [CLIENT’S NAME] awake at night? What is [CLIENT’S NAME] stressed about? What is [CLIENT’S NAME] afraid of?
+
+Prompt 16 - 
+Who is [CLIENT’S NAME] angry with?
+
+Prompt 17 - 
+What trends tend to occur in [CLIENT’S NAME]’s life?
+
+Prompt 18 - 
+How would you describe [CLIENT’S NAME]’s current situation?
+
+Prompt 19 - 
+Why is [CLIENT’S NAME]’s current situation painful?
+
+Prompt 20 - 
+How would [CLIENT’S NAME] describe his pain?
+
+Prompt 21 - 
+How would others describe [CLIENT’S NAME]’s current situation and pain?
+
+Prompt 22 - 
+What does [CLIENT’S NAME] desire most?
+
+Prompt 23 - 
+How would [CLIENT’S NAME] describe his desired situation?
+
+Prompt 24 - 
+How does [CLIENT’S NAME] want to feel?
+
+Prompt 25 - 
+Who does [CLIENT’S NAME] want to become?
+
+Prompt 26 - 
+Why is [CLIENT’S NAME]’s desired situation better than their current situation?
+
+Prompt 27 - 
+What are [CLIENT’S NAME]’s top 3 dream outcomes?
+
+Prompt 28 - 
+What does [CLIENT’S NAME] need to hear to feel understood?
+
+Prompt 29 - 
+What’s blocking [CLIENT’S NAME] from achieving their desired situation on their own?
+
+Prompt 30 -
+How would [CLIENT’S NAME] describe the thing that’s blocking him/her?
+
+Prompt 31 - 
+What lies is [CLIENT’S NAME] believing?
+
+Prompt 32 -
+Why is [CLIENT’S NAME] believing these lies?
+
+Prompt 33 - 
+Why would [CLIENT’S NAME] be currently interested in my marketing automation software?
+
+Prompt 34 - 
+What thoughts, risk analysis goes through [CLIENT’S NAME] head before signing up for my software?
+
+Prompt 35 - 
+What will push [CLIENT’S NAME] over the edge to sign up for my marketing software?
+
