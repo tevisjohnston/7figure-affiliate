@@ -106,4 +106,4 @@ wp-content/themes/7figure/
 
 ## 4. Test with Playwright
 
-**Test** each link for all created pages
+**Use Playwright MCP** to test each link
