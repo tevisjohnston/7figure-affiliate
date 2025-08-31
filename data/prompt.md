@@ -99,10 +99,6 @@ wp-content/themes/7figure/
     └── main.scss
 ```
 
-#### 3.1.3. Database
-
-**phpmyadmin** `http://localhost:8888/phpMyAdmin5/index.php?route=/database/structure&db=7figure-affiliate`
-
 ## 4. Test with Playwright
 
 **Use Playwright MCP** to test each link
