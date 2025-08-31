@@ -1,18 +1,12 @@
-# Analyze → Research → Build → Test with Playwright → DONE
+# Research → Analyze → Build → Test with Playwright
 
-## 1. Analyze
+## 1. Research
 
-**Analyze** The files and folders within the directory. This is a fresh Wordpress website installation connected to phpmyadmin database using mysql and MAMP for its server
-**Data** Data for you to use while building this website is in /7figure-affiliate/data
+### 1.1. Use Context7
 
-## 2. Research
+**Wordpress documentation** Use context7 to get the latest WordPress developing documentation
 
-### 2.1. Use Context7
-
-**Wordpress documentation** Get the latest WordPress documentation using Context7
-**Specefic document** (WordPress documentation converted to markdown (`/kasparsd/wp-docs-md`) with a perfect trust score of 10 and 180 code snippets). This contains WordPress handbooks for block editor, themes, plugins, APIs, and more in a format optimized for AI use
-
-### 2.2. Affiliate Links
+### 1.2. Affiliate Links
 
 **AI Millionaire** `https://warriorplus.com/o2/a/trg0shw/0`
 
@@ -37,9 +31,14 @@
 
 **Profit Alliance** `https://warriorplus.com/o2/a/kfpyh9j/0`
 
+## 2. Analyze
+
+**Analyze** The files and folders within the directory. This is a fresh Wordpress website installation with 2 added folders /.roo and /data
+**/DATA** Information and images to use throughout the website during the building process
+
 ## 3. Build
 
-**Theme** Create a custom theme inside wp-content/themes/ using the data from /data/ to populate the pages
+**Theme** Create a custom theme 7figure inside wp-content/themes/7figure
 
 ### 3.1. Site Architecture & Structure
 
@@ -49,7 +48,7 @@
 ├── Homepage (/)
 ├── Blog Page
 ├── 10 Product Landing Pages (/products/{product-slug}/)
-├── Legal Pages
+└── Legal Pages
     ├── Privacy Policy (/privacy-policy/)
     ├── Terms & Conditions (/terms-conditions/)
     └── Affiliate Disclaimer (/affiliate-disclaimer/)
