@@ -39,9 +39,7 @@
 
 ## 3. Build
 
-**Design** Create a html/css/js/php design using tailwind css and the data from the initial # Analyze and # Research to understand how to layout the information.
-**Theme** Create a custom Wordpress theme, plugins, tools, dynamic header, dynamic footer, key index, subindex pages using the taxonomy system, and implementation of the html/css design but only as a design using dynamic variables.
-**Implementation plan** You must build a full implementation plan including what each subtask will be and what data needs to be passed in order to do each subtask properly.
+**Theme** Create a custom theme inside wp-content/themes/ using the data from /data/ to populate the pages
 
 ### 3.1. Site Architecture & Structure
 
@@ -52,10 +50,9 @@
 ├── Blog Page
 ├── 10 Product Landing Pages (/products/{product-slug}/)
 ├── Legal Pages
-│   ├── Privacy Policy (/privacy-policy/)
-│   ├── Terms & Conditions (/terms-conditions/)
-│   └── Affiliate Disclaimer (/affiliate-disclaimer/)
-└── About Michael Cheney (/about/) [Optional]
+    ├── Privacy Policy (/privacy-policy/)
+    ├── Terms & Conditions (/terms-conditions/)
+    └── Affiliate Disclaimer (/affiliate-disclaimer/)
 ```
 
 #### 3.1.2. WordPress Theme Structure
@@ -107,12 +104,6 @@ wp-content/themes/7figure/
 
 **phpmyadmin** `http://localhost:8888/phpMyAdmin5/index.php?route=/database/structure&db=7figure-affiliate`
 
-### 3.2. SEO
-
-**Meta Title**: Maximized to 60 characters with keywords
-**Meta Description**: Maximized to 160 characters with compelling copy
-**Open Graph tags** For social sharing
-
 ## 4. Test with Playwright
 
-**Test** each link for all created page
+**Test** each link for all created pages
