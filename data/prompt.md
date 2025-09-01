@@ -1,35 +1,10 @@
-# Research → Analyze → Build → Test with Playwright
+# Research → Analyze → Build → Test
 
 ## 1. Research
 
 ### 1.1. Use Context7
 
 **Wordpress documentation** Use context7 to get the latest WordPress developing documentation
-
-### 1.2. Affiliate Links
-
-**AI Millionaire** `https://warriorplus.com/o2/a/trg0shw/0`
-
-**Millionaire's Apprentice** `https://warriorplus.com/o2/a/rznm9hj/0`
-
-**Millionaire Whistleblower** `https://warriorplus.com/o2/a/bj6f8xd/0`
-**JV Page** `https://live.millionairewhistleblower.com/jv-page1740997595584`
-
-**AI Millionaire** `https://warriorplus.com/o2/a/trg0shw/0`
-
-**AI Franchise** `https://warriorplus.com/o2/a/sw1jx7g/0`
-
-**AI Partner & Profit** `https://warriorplus.com/o2/a/wts2719/0`
-
-**Partner & Profit** `https://warriorplus.com/o2/a/wkmj0yv/0`
-
-**7 Figure Affiliate System** `https://warriorplus.com/o2/a/rtg66hv/0`
-
-**7 Figure Launch System** `https://warriorplus.com/o2/a/q89hl62/0`
-
-**Fast Track to 1 Million** `https://warriorplus.com/o2/a/flx9tyf/0`
-
-**Profit Alliance** `https://warriorplus.com/o2/a/kfpyh9j/0`
 
 ## 2. Analyze
 
@@ -81,24 +56,32 @@ wp-content/themes/7figure/
 │   │   ├── main.js          # Main JavaScript
 │   │   ├── analytics.js     # Tracking & conversion
 │   │   └── components.js    # Interactive components
-│   ├── images/
-│   │   ├── logo.svg
-│   │   ├── michael-cheney.jpg
-│   │   └── products/        # Product images
-│   └── fonts/               # Custom fonts
-├── inc/
-│   ├── custom-post-types.php
-│   ├── custom-fields.php
-│   ├── enqueue-scripts.php
-│   ├── theme-options.php
-│   └── affiliate-functions.php
-└── scss/                    # Sass source files
-    ├── _variables.scss
-    ├── _mixins.scss
-    ├── _components.scss
-    └── main.scss
+│   └── images/
+│       ├── michael-cheney-bio.webp
+│       ├── Logo/        # Site logo and icon
+|       |   ├── logo-7-figure-affiliate.webp    # Site logo
+|       |   └── icon-7-figure-affiliate.webp    # Site icon
+│       └── Products/        # Product images
+|           ├── 7Figure-Affiliate-System.webp      # Product logo
+|           ├── 7Figure-Launch-System.webp         # Product logo
+|           ├── AI-Franchise.webp                  # Product logo
+|           ├── AI-Millionaire.webp                # Product logo
+|           ├── AIPartnerProfit.webp               # Product logo
+|           ├── Fast-Track-to-1-Million.webp       # Product logo
+|           ├── Millionaire-Whistleblower.webp     # Product logo
+|           ├── Millionaires-Apprentice-Logo.webp  # Product logo
+|           ├── Partner-Profit.webp                # Product logo
+|           └── Profit-Alliance.webp               # Product logo
+|
+│   
+└── inc/
+    ├── custom-post-types.php
+    ├── custom-fields.php
+    ├── enqueue-scripts.php
+    ├── theme-options.php
+    └── affiliate-functions.php
 ```
 
-## 4. Test with Playwright
+## 4. Test
 
-**Use Playwright MCP** to test each link
+**Test your work** Use Puppateer MCP to test each link
