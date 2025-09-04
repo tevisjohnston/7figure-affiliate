@@ -161,7 +161,7 @@
         <section class="about-michael">
             <div class="container">
                 <div class="about-content">
-                    <img src="<?php echo get_template_directory_uri(); ?>/data/michael-cheney.jpg" alt="Michael Cheney" class="michael-photo">
+                    <img src="<?php echo wp_get_upload_dir()['baseurl']; ?>/2025/09/michael-cheney-bio.webp" alt="Michael Cheney" class="michael-photo">
                     <div class="about-text">
                         <h2>Meet Michael Cheney</h2>
                         <p>Michael Cheney is a renowned internet marketer and affiliate marketing expert with over 15 years of experience building successful online businesses. His proven systems have helped thousands of entrepreneurs achieve their dreams through strategic affiliate marketing.</p>
